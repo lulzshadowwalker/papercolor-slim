@@ -1,5 +1,7 @@
 # PaperColor Slim Theme (VS Code)
 
+![PaperColor Slim Screenshot](./images/screenshot.png)
+
 A minimal port of the PaperColor Slim colorscheme to Visual Studio Code.
 
 This theme keeps the original goal intact: consistent colors, predictable highlighting, and no unnecessary complexity. It aims to stay out of your way and let you focus on the code.
