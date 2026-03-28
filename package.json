@@ -3,7 +3,7 @@
   "displayName": "PaperColor Slim",
   "publisher": "lulzshadowwalker",
   "description": "A minimal port of the PaperColor Slim colorscheme to Visual Studio Code, focused on clarity, consistency, and a distraction-free coding experience.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.110.0"
   },
