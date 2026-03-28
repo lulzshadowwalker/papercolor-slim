@@ -1,0 +1,21 @@
+{
+  "name": "papercolor-slim",
+  "displayName": "PaperColor Slim",
+  "description": "A minimal port of the PaperColor Slim colorscheme to Visual Studio Code, focused on clarity, consistency, and a distraction-free coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PaperColor Slim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PaperColor Slim-color-theme.json"
+      }
+    ]
+  }
+}
