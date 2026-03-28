@@ -2,6 +2,10 @@
   "name": "papercolor-slim",
   "displayName": "PaperColor Slim",
   "publisher": "lulzshadowwalker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lulzshadowwalker/papercolor-slim.git"
+  },
   "description": "A minimal port of the PaperColor Slim colorscheme to Visual Studio Code, focused on clarity, consistency, and a distraction-free coding experience.",
   "version": "1.0.0",
   "engines": {
